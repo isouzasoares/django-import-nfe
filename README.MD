@@ -14,5 +14,6 @@ python manage.py runserver
 ```
 Para importar os dados dos xmls das notas para o sistema, basta rodar o seguinte comando
  python manage.py addnfe '/home/user/dir_xmls_nfes'
+``` 
 
-Após você deve acessar o admin do django para acesso aos dados importados.
+Após o admin do django deve ser acessado.
