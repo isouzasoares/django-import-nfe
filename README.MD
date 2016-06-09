@@ -16,4 +16,8 @@ Para importar os dados dos xmls das notas para o sistema, basta rodar o seguinte
  python manage.py addnfe '/home/user/dir_xmls_nfes'
 ``` 
 
-Após o admin do django deve ser acessado.
+## Implementações a serem feitas
+'''
+  Modelagem de endereços com vinculos para clientes e fornecedores
+  Adição de relatórios
+'''
